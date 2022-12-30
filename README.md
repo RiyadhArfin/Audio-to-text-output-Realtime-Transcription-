@@ -14,7 +14,7 @@ A Audio-to-text-output-Realtime transcription project using React and a socketio
 ## Google Speech API
 The code assumes an environment variable `GOOGLE_SERVICE_JSON_FILE` that points to a valid GCP service account file.
 
-The Json key is given
+The Json key is given ( "audio-to-text-output" ==> file in the main repo is the json key )
 
 But
 
